@@ -1,4 +1,9 @@
-// 1312
+  
+// Jonathon Mason
+// 13408 Action Learning Plan
+
+// This program draws a rectangle to the screen and colours it
+// based on the position of the mouse.
 
 void setup() {
   size(600, 400);
