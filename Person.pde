@@ -1,3 +1,9 @@
+  
+// Jonathon Mason
+// 13408 Action Learning Plan
+
+// This is me drawing a person using ellipses and rectangles.
+
 size(200,200);
 rectMode(CENTER);
 fill(155);
